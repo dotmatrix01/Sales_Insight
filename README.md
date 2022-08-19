@@ -1,6 +1,6 @@
 # Sales_Insight
 
-Customer Segmentation Analysis and Sales Data Exploration--RFM Analysis in SQL 
+# Customer Segmentation Analysis and Sales Data Exploration--RFM Analysis in SQL 
 
 Explored a sales data and generated various analytics and insight from customer'past behaviour.
 
